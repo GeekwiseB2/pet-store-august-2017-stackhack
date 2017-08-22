@@ -1,0 +1,27 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+/*header styles*/
+.logo-img{
+  width: 90px;
+  display: inline-block;
+}
+
+.logo-text {font-family: 'Satisfy',cursive;
+color: #f37972; /*base orange*/
+display: inline-block;
+}
+/*hero style*/
+.hero {
+  background-image: url('../img/hero.jpg');
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+  padding-top:40px;
+}
+.white-text{
+  color:#fff;
+}
+.hero .white-text {
+  font-size:2em;
+}
+/*comment*/
